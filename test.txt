@@ -1,0 +1,15 @@
+" I'm an AI text-based model and I'm unable to directly draw or create images. However, I can suggest an ASCII representation of a mountain range based on the document you provided:\n\n```\n      __/\\\\__\n      \\    /\n__/\\\\__/    \\__/\\\\__\n\\                /\n/_              _\\\n  \\            /\n__/            \\__\n\\\\                /\n/_  __      __  _\\\n  \\/  \\    /  \\/\\\n      /_  _\\\n        \\/\n"
+```
+                __/\\\\__      
+                \\    /
+      __/\\\\__/    \\__/\\\\__
+      \\                /
+      /_              _\\
+        \\            /
+        __/            \\__
+        \\\\                /
+        /_  __      __  _\\
+          \\/  \\    /  \\/\\
+            /_  _\\
+            \\/
+
